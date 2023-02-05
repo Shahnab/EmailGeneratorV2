@@ -3,7 +3,7 @@ import streamlit.components.v1 as components
 
 st. set_page_config(layout="wide")
 
-st.image("https://www.freeiconspng.com/thumbs/email-icon/email-icon--clipart-best-22.png", width=100)
+st.subheader.image("https://www.freeiconspng.com/thumbs/email-icon/email-icon--clipart-best-22.png", width=100)
 st.title("A.I. Based Email Generator Engine")
 st.sidebar.header("About the App:")
 st.sidebar.caption("This app is build using GPT3")
