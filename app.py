@@ -22,4 +22,4 @@ st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Open
 st.sidebar.caption("Streamlit App by </Shahnab>")
 
 # embed streamlit docs in a streamlit app
-st.components.v1.iframe("https://shad0ws-emailgenerator-usecase.hf.space", width=1500, height=1050, scrolling=True)
+st.components.v1.iframe("https://shad0ws-emailgenerator-usecase.hf.space", width=1500, height=850, scrolling=True)
